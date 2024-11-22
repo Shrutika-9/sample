@@ -5,14 +5,14 @@ pipeline	{
 	stages {
 		stage ("one"){
 			steps {
-				sleep 10
+				sleep 15
 }
 
 }
 
 stage ("two"){
 			steps {
-				sleep 10
+				sleep 15
 }
 
 }
