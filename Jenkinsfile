@@ -12,7 +12,7 @@ pipeline	{
 
 stage ("two"){
 			steps {
-				sleep 15
+				echo "this is master branch"
 }
 
 }
